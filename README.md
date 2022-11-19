@@ -1,6 +1,6 @@
 # Litas-ccon-RecyclerView
 
-## Dependencias a usuar
+## Dependencias a usar
 ```
 implementation 'androidx.recyclerview:recyclerview:1.2.1'
 ```
